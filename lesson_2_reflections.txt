@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+you need to initialize with the command git init, perhaps check its status and
+decide to commit or not from the beginning
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+you can choose which files to commit together, or decide to reset if you made a mistake
