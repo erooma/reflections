@@ -19,3 +19,8 @@ How do the diagrams help you visualize the branch structure?
 
 so as not to lose your place and see which commits can trace back to the others
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+to encompass all the changes on the non-master branch. This now merges the two timelines.
+
+
