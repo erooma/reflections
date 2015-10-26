@@ -23,4 +23,8 @@ What is the result of merging two branches together? Why do we represent it in t
 
 to encompass all the changes on the non-master branch. This now merges the two timelines.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+time saving, but gets confusing when need to check conflicts from other people
+
 
