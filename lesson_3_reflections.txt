@@ -14,6 +14,10 @@ What is the benefit of having a copy of the last known state of the remote store
 
 Can take the info with you, eg on a plane without internet, to work on.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+use dropbox or onedrive, although incremental changes to code may not be saved as completely, however, those appear to be much simpler file sharing services than Github!
+
 
 
 
