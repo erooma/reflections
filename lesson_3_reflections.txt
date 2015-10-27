@@ -1,1 +1,3 @@
-new lesson file (lesson 3)
+When would you want to use a remote repository rather than keeping all your work local?
+
+when on another computer, or another person is contributing. Or easier to make changes directly on website (quick changes).
