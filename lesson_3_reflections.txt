@@ -18,6 +18,10 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 
 use dropbox or onedrive, although incremental changes to code may not be saved as completely, however, those appear to be much simpler file sharing services than Github!
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+For experimental concepts or when collaborating on a project with others. For day to day I am unlikely to branch, given how complicated everything can be.
+
 
 
 
