@@ -6,3 +6,9 @@ Why might you want to always pull changes manually rather than having Git automa
 
 risk of not having finished a project or task and losing data or confusing things. Might forget to pull tasks when necessary.
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+forks are clones of directories on github (from one github directory to another). Clones are identical repositories but either between one's computer and github or on one's computer alone. Branches can exist on both one's computer and gitub (as they will be mirrored.)
+
+
+
